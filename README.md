@@ -18,8 +18,7 @@ Associated Project:
 Malware understanding and development 
 -Demonstartes how to effectivly analyze and detect malware through through tools, websites, logs and  links.
 - Demonstartes how to effective recover from a malware attack and where to go from there 
-https://utica-my.sharepoint.com/:p:/g/personal/nfbeards_utica_edu/Ee9Xfn5y-BxOn_XtvY_0MSQBk50fCOgRkCxrLH9KPX3aBg?e=KFYY3o
-
+https://utica-my.sharepoint.com/:p:/g/personal/nfbeards_utica_edu/ERmOsnk1drlInubxZhIW4LYBRmlgvE7yM4gRdqpSDelrFQ
 
 
 Tools
